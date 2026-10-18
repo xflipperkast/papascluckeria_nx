@@ -1,9 +1,20 @@
+<div align="center">
+
+<img src="icon.jpg" alt="papascluckeria_nx" width="160">
+
 # papascluckeria_nx
 
-Papa's Cluckeria To Go! on Nintendo Switch
+**Papa's Cluckeria To Go! on Nintendo Switch**
 
-An unofficial Nintendo Switch port of the Android version of
-Papa's Cluckeria To Go! — 1.0.4 (ARM64)
+An unofficial Nintendo Switch port of the Android version of  
+**Papa's Cluckeria To Go! — 1.0.4**
+
+**By xFlippy**
+
+[![Switch](https://img.shields.io/badge/Nintendo_Switch-Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)](#)
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/flippyy)
+
+</div>
 
 ---
 
@@ -81,9 +92,7 @@ make clean
 make -j$(nproc)
 ```
 
-The output is `papascluckeria_nx.nro`. The build enforces a maximum NRO size of
-13,000,000 bytes. The NRO contains the complete compressed runtime, including
-platform tables, boot libraries, fonts and notices. No system folder is needed.
+The output is `papascluckeria_nx.nro`. 
 
 ## Running
 
